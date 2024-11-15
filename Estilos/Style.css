@@ -1,0 +1,151 @@
+html {
+    background-color: #D3C4F2;
+}
+
+header {
+
+    background-color: blueviolet;
+    color: white solid;
+    font-family: Arial, Helvetica, sans-serif;
+    width: fit-content height
+}
+
+.grid-container {
+    background-color: rgb(116, 40, 134);
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    letter-spacing: 2dvh;
+
+
+
+}
+
+.Sobre-nosotros {
+    color: bisque;
+    font-size: medium;
+}
+
+.Nuestros-servicios {
+    color: white
+}
+
+.Contacto {
+    color: beige;
+    width: 100px;
+    height: auto;
+    display: flexbox;
+}
+
+h1 {
+    justify-content: center;
+    font-style: italic;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+
+}
+
+.container {
+    display: -webkit-inline-box
+}
+
+.one {
+    font-style: italic;
+    box-sizing: border-box;
+    width: 150px;
+    height: 100px;
+    padding: 10px;
+    background-color: darkslateblue;
+    color: #00ff9d;
+    border: 2px solid #333;
+    margin: 20px;
+
+}
+
+.two {
+    font-style: italic;
+    box-sizing: border-box;
+    width: 150px;
+    height: 100px;
+    padding: 10px;
+    background-color: darkslateblue;
+    color: #00ff9d;
+    border: 2px solid #333;
+    margin: 20px;
+
+}
+
+.tres {
+    font-style: italic;
+    box-sizing: border-box;
+    width: 150px;
+    height: 100px;
+    padding: 10px;
+    background-color: darkslateblue;
+    color: #00ff9d;
+    border: 2px solid #333;
+    margin: 20px;
+}
+
+.grid-container {
+    gap: 10px;
+}
+
+header {
+    height: 50px;
+    padding: 0 10%;
+    background-image: linear-gradient(left top, #F4F4F4 30%, #E0E0E0 87%);
+    clear: both;
+}
+
+header nav {
+    margin: 1em 0;
+    padding: 0.8em 0;
+    border-radius: 5px;
+}
+
+
+
+
+.petshop {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 300px;
+    height: 200px;
+
+}
+
+.veterinarias-domicilio {
+    justify-content: center;
+    font-style: italic;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+}
+
+body {
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 2em;
+    /* 32px, porque 2 * 16px = 32px */
+}
+
+.vetmove {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #333;
+}
+
+.FidoCare {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #333;
+}
+
+.PawMed {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #333;
+}
